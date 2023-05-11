@@ -1,3 +1,3 @@
 print("Good morning sweetheart")
-a=int(input("enter the num"))
-print(a)
+num=int(input("enter the num"))
+print(num)
